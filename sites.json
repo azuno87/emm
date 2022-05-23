@@ -1,0 +1,180 @@
+﻿[
+    {
+      "cid": 1,
+      "title": "图站",
+      "english": "picture sites",
+      "r18": false,
+      "sites": [
+        {
+          "sid": 101,
+          "title": "picxx",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/picxx.png",
+          "description": "收录图片较多且杂，但质量都不错，荤",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/picxx.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.9",
+          "r18": false
+        },{
+          "sid": 102,
+          "title": "魅图社",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/meitushe.png",
+          "description": "cao榴的图，荤",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/meitushe.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 103,
+          "title": "绝对领域",
+          "author": "未知",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/jdly.png",
+          "description": "绝对领域,素",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/jdly.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 104,
+          "title": "凹凸吧",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/aotu.png",
+          "description": "各种套图,有荤有素",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/aotu.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 105,
+          "title": "买家秀",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/mjx.png",
+          "description": "各种买家秀,贵在真实,素",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/mjx.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 106,
+          "title": "lu女郎",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/lnl.png",
+          "description": "各种福利姬女菩萨,荤",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/lnl.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 107,
+          "title": "nudebird",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/nudebird.png",
+          "description": "需要番,各种高质量图,经常更新,荤",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/nudebird.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 108,
+          "title": "美女套图",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/mntt.png",
+          "description": "秀人ROSI等专业套图机构,素",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/mntt.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.11",
+          "r18": false
+        },{
+          "sid": 109,
+          "title": "piccxx旧站",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/oldpicxx.png",
+          "description": "虽然不更新了,但图片质量高,荤",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/photo/oldpicxx.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.27",
+          "r18": false
+        }
+      ]
+    },
+    {
+      "cid": 2,
+      "title": "视频站",
+      "english": "video sites",
+      "r18": false,
+      "sites": [
+        {
+          "sid": 201,
+          "title": "九se",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/9se.png",
+          "description": "9一的视频",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/video/9se.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.9",
+          "r18": false
+        },{
+          "sid": 202,
+          "title": "自拍乐园",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/zply.png",
+          "description": "自拍偷拍",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/video/zply.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 203,
+          "title": "四虎",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/4hu.png",
+          "description": "各种视频,种类很多",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/video/4hu.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 204,
+          "title": "藏ji阁",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/cjg.png",
+          "description": "国产日本欧美,里番",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/video/cjg.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 205,
+          "title": "Erobible",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/erobible.png",
+          "description": "大多是FC2的视频",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/video/erobible.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 206,
+          "title": "秋名山车库",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/qms.png",
+          "description": "分类很多",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/video/qms.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 207,
+          "title": "fan号鸽",
+          "author": "木子",
+          "icon": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/icons/fhg.png",
+          "description": "各种视频,有里番",
+          "json": "https://gitee.com/NoOne9527/h-viewer-site/raw/master/sites/video/fhg.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.27",
+          "r18": false
+        }
+      ]
+    }
+  ]
